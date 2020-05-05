@@ -1,0 +1,4 @@
+C:\Users\james\Desktop\deltav401\401-lab01\Exception-Handling-Debugging\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csprojAssemblyReference.cache
+C:\Users\james\Desktop\deltav401\401-lab01\Exception-Handling-Debugging\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\deltav401\401-lab01\Exception-Handling-Debugging\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\deltav401\401-lab01\Exception-Handling-Debugging\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfo.cs
